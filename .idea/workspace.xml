@@ -179,7 +179,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Bash.git.sh">
+    <configuration name="git.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="smart_client" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/git.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -192,6 +203,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Bash.git.sh" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
